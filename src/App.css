@@ -11,13 +11,13 @@ h1 {
 }
 h2 {
  
-  color: rgb(199, 113, 67);
+  color: rgb(238, 116, 50);
   font-size: 5vmin;
 }
 
 .App-logo {
 
- height:12vmin;
+ height:11vmin;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -26,31 +26,24 @@ h2 {
   }
 }
 body {
-   /* background-color: #282c34; */
+   background-color: #282c34;
   background-image: url(./backround.jpeg);
   background-repeat: no-repeat;
   background-size: 100%; 
+  color: #fff;
+  font-size: 5vmin;
 }
 
-.App-header {
-  /* background-color: #282c34; */
-  /* background-image: url(./backround.jpeg);
-  background-repeat: no-repeat; */
-  /* background-size: 100%; */
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-  
+h3  {
+  font-size: 2rem;
+color: rgb(233, 123, 59);  
 }
+
 
 
 .App-link {
-  color: #f5786a;
-  font-size: 5vmin;
+  color: #f8604f;
+  font-size: 8vmin;
 }
 
 @keyframes App-logo-spin {
@@ -61,3 +54,5 @@ body {
     transform: rotate(360deg);
   }
 }
+
+
