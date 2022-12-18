@@ -9,7 +9,7 @@ function App() {
       
       <header className="App-header">
         <h1>
-         The Best Band You Can Be
+        The BEST BAND you can Be
         </h1>
         <br>
         </br>
