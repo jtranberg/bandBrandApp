@@ -13,7 +13,7 @@ function App() {
         </h1>
         <br>
         </br>
-        <img src={logobb} className="App-logo" alt="logo" />
+        <a href="https://www.bandbrand.ca/"  target="_blank" rel="noopener noreferrer"><img src={logobb} className="App-logo" alt="logo" ></img></a>
         <a
           className="App-link"
           href="https://www.bandbrand.ca/"
